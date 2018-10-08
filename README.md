@@ -12,4 +12,4 @@ This is an attempt to create Django Girls Blog
 4. python manage.py runserver
 
 ## To view
-Open up http://127.0.0.1:8000 in your browser
+Open up http://127.0.0.1:8000 in your browser.
